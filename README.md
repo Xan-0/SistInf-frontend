@@ -1,5 +1,7 @@
 # SistInf-frontend
-Frontend de tienda de productos tecnológicos, desarrollo en Vite (Oxlint) + React JS + Tailwind CSS (Node >=23.5.0)
+Frontend de tienda de productos tecnológicos, desarrollo en Vite (Oxlint) + React JS + Tailwind CSS
+
+(Node >=23.5.0)
 
 ## Ejecutar en modo dev:
 - Ejecutar los siguientes comandos en consola y luego entrar a http://localhost:5173
